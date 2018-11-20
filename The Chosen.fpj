@@ -30,5 +30,6 @@
 	<AppType Value="CONSOLE"/>
 	<Files>
 		<File Name="main.c"/>
+		<File Name="personagem.h"/>
 	</Files>
 </Project>

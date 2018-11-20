@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout>
 	<Files>
-		<File Name="main.c" Top="Yes" Tabpos="1" TopLine="61">
-			<Cursor Line="35" Column="42"/>
-			<Selection Line="35" Column="37"/>
+		<File Name="main.c" Top="Yes" Tabpos="1" TopLine="58">
+			<Cursor Line="84" Column="29"/>
+		</File>
+		<File Name="personagem.h" Top="No" Tabpos="2" TopLine="16">
+			<Cursor Line="29" Column="11"/>
 		</File>
 	</Files>
 </Layout>
