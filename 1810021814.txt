@@ -1,0 +1,32 @@
+Nivel: 1
+HP: 200
+Mana: 100
+PontKills: 0
+Setenca da Morte: 0
+Flecha Penetrante: 0
+Chuva de Flechas: 0
+Flecha de Penas: 0
+Excalibur: 0
+Quebrar Armadura: 0
+Ferida Mortal: 0
+Avanco Poderoso: 0
+Recuperacao Divina: 0
+Corroer: 0
+Lanca de Raio: 0
+Cristalizar Mana: 0
+Forca: 5
+Destreza: 5
+Inteligencia: 5
+Sorte: 5
+Arco: 0
+Besta: 0
+Espada e Escudo: 0
+Lanca e Escudo:0
+Varinha: 0
+Cajado: 0
+Tigre: 0
+Vibora: 0
+Aguia: 0
+Buffalo: 0
+Cavalo: 0
+Dragao: 0
