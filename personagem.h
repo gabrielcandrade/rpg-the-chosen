@@ -2,24 +2,10 @@
 
 struct Personagem{
 	int nivel;
+	int exp;
 	int hp;
-	int mana;
+	int moedas;
 	int pontKills;
-};
-
-struct Skills{
-	int sentenca_morte;
-	int flecha_penetrante;
-	int chuva_flechas;
-	int flecha_penas;
-	int excalibur;
-	int quebrar_armadura;
-	int ferida_mortal;
-	int avanco_poderoso;
-	int recuperacao_divina;
-	int corroer;
-	int lanca_de_raio;
-	int cristalizar_mana;
 };
 
 struct Atributos{
@@ -31,11 +17,8 @@ struct Atributos{
 
 struct Arma{
 	int arco;
-	int besta;
-	int espada_escudo;
-	int lanca_escudo;
+	int espada;
 	int varinha;
-	int cajado;
 };
 
 struct Pet{
